@@ -1,0 +1,18 @@
+{
+  "name": "vivify_scrum_tests_cases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "Faker": "^0.7.2",
+    "cypress": "^8.6.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
