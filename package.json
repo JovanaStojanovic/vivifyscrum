@@ -10,9 +10,11 @@
   "license": "ISC",
   "devDependencies": {
     "Faker": "^0.7.2",
-    "cypress": "^8.6.0"
+    "cypress": "^8.6.0",
+    "cypress-ntlm-auth": "^3.2.3"
   },
   "dependencies": {
+    "cypress-file-upload": "^5.0.8",
     "faker": "^5.5.3"
   }
 }
